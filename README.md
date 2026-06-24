@@ -1,14 +1,12 @@
+# <div align="center">Hi 👋, I'm Nguyễn Anh Tuấn</div>
+
 <div align="center">
 
-<img src="./assets/chibi-coding.gif" width="260" alt="Chibi coding animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=AI+Automation+Builder;Building+AI+Agents+%26+Workflows;Vibe+Coding+%7C+Full-Stack+Development;Turning+Ideas+Into+Real+Products" />
 
-# Hi 👋, I'm Nguyễn Anh Tuấn
+<br/>
 
-### 🤖 AI Automation Builder | ⚡ AI Agents & Workflows | 💻 Vibe Coding & Shipping Ideas
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=HarryNguyen510&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=HarryNguyen510\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 </div>
 
@@ -16,38 +14,47 @@
 
 ## 🚀 About Me
 
-I'm a builder focused on **AI Automation**, **AI Agents**, and practical tools that automate real work.
+I'm passionate about building practical AI systems that automate real work.
 
-- 🤖 Building AI Agents & Automation Systems  
-- ⚡ Creating workflows that save time  
-- 💻 Vibe coding useful products with JavaScript  
-- 🚀 Turning ideas into real-world tools  
-- 🌱 Exploring AI, automation, SaaS, and agentic workflows  
+* 🤖 Building AI Agents & Automation Systems
+* ⚡ Creating workflows that save time and effort
+* 💻 Full-stack development with JavaScript
+* 🚀 Turning ideas into real products
+* 🌱 Exploring Agentic AI, Automation, SaaS and AI Workflows
 
 ---
 
-## 🧠 Current Focus
-
-```txt
-AI Agents      ██████████  90%
-Automation     █████████   85%
-Vibe Coding    ██████████  95%
-Full-Stack     ████████    80%
-🛠 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-AI & Automation
+### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,github,git,vscode" />
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,express,mongodb,mysql" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
-📊 GitHub Stats
+---
+
+## 🤖 AI & Automation
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -57,7 +64,9 @@ AI & Automation
 
 </div>
 
-🔥 Contribution Streak
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -65,23 +74,58 @@ AI & Automation
 
 </div>
 
-🧩 What I Like Building
-AI Chatbots        → Customer support, personal assistants, automation bots
-AI Workflows       → Repetitive task automation
-AI Agents          → Tools that can reason, plan, and execute
-Web Apps           → Simple, useful, and fast products
-📫 Connect With Me
+---
+
+## 🎯 Current Focus
+
+* 🤖 AI Agents
+* ⚡ Workflow Automation
+* 🧠 Agentic AI Systems
+* 💻 Full-Stack Development
+* 🚀 Building Useful Products
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 AI Automation
+
+* AI Agents
+* Workflow Automation
+* Chatbots & Assistants
+
+### 🌐 Web Development
+
+* JavaScript Applications
+* Node.js APIs
+* Frontend Interfaces
+
+### 🚀 Product Building
+
+* SaaS Experiments
+* Internal Tools
+* Productivity Systems
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:at5102001@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+<a href="mailto:at5102001@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-<a href="https://github.com/HarryNguyen510"> <img src="https://img.shields.io/badge/GitHub-HarryNguyen510-black?style=for-the-badge&logo=github" /> </a>
+<a href="https://github.com/HarryNguyen510">
+<img src="https://img.shields.io/badge/GitHub-HarryNguyen510-black?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
+---
+
 <div align="center">
 
-“Building useful things with AI, automation, and code.”
+### 💭 Building useful things with AI, automation and code.
 
-</div> ```
+</div>
