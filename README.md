@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="./banner.png" width="100%" alt="Nguyen Anh Tuan AI Automation Banner" />
+</div>
+
+<br/>
 # <div align="center">Hi 👋, I'm Nguyễn Anh Tuấn</div>
 
 <div align="center">
