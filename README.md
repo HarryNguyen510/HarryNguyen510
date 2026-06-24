@@ -3,7 +3,7 @@
 </div>
 
 <br/>
-# <div align="center">Hi 👋, I'm Nguyễn Anh Tuấn</div>
+<div align="center">Hi 👋, I'm Nguyễn Anh Tuấn</div>
 
 <div align="center">
 
