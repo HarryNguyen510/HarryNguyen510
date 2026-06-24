@@ -98,18 +98,6 @@
 
 ---
 
-# ⏱ Weekly Coding Stats
-
-> Requires WakaTime account setup
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🚀 Featured Projects
 
 <div align="center">
@@ -143,7 +131,7 @@ If my projects help you, consider supporting my work.
 <div align="center">
 
 <a href="https://ko-fi.com/harry_ai">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+<img src="https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Ko--fi-FF5E5B?style=for-the-badge" />
 </a>
 
 <a href="https://paypal.me/nganhtuan">
@@ -172,6 +160,6 @@ If my projects help you, consider supporting my work.
 
 <div align="center">
 
-### 💡 Building useful things with AI, automation and code.
+### 💡 Building useful things with AI, automation, and code.
 
 </div>
