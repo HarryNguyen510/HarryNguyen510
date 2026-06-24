@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=AI+Automation+Builder;Building+AI+Agents+%26+Workflows;Vibe+Coding+%7C+Full-Stack+Development;Turning+Ideas+Into+Real+Products;Automate+%E2%80%A2+Build+%E2%80%A2+Ship" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=AI+Automation+Builder;Building+AI+Agents+%26+Workflows;Full-Stack+Developer;Turning+Ideas+Into+Real+Products;Automate+%E2%80%A2+Build+%E2%80%A2+Ship" />
 
 <br/>
 
@@ -16,66 +16,57 @@
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-I'm an **AI Automation Builder** focused on building practical systems that automate real work.
+🇻🇳 Tôi là một AI Automation Builder, tập trung vào AI Agents, Workflow Automation và xây dựng sản phẩm thực tế.
+
+🇺🇸 I am an AI Automation Builder focused on AI Agents, Workflow Automation, and building practical products.
 
 * 🤖 Building AI Agents & Automation Systems
 * ⚡ Creating workflows that save time and effort
-* 💻 Full-stack development with JavaScript
+* 💻 Full-Stack JavaScript Development
 * 🚀 Turning ideas into useful products
-* 🧠 Exploring Agentic AI, Automation, SaaS and AI Workflows
+* 🧠 Exploring Agentic AI, SaaS and Productivity Systems
 
 ---
 
-## 🧠 Current Focus
+# 🚀 Currently Building
+
+* 🤖 AI Agents & Multi-Agent Systems
+* ⚡ Workflow Automation with n8n
+* 🧠 AI Chatbots & Assistants
+* 💻 Full-Stack Web Applications
+* 🚀 SaaS & Productivity Tools
+
+---
+
+# 🛠 Tech Stack
 
 <div align="center">
 
-| Focus                     | Status        |
-| ------------------------- | ------------- |
-| 🤖 AI Agents              | Building      |
-| ⚡ Workflow Automation     | Improving     |
-| 🧠 Agentic AI Systems     | Learning      |
-| 💻 Full-Stack Development | Shipping      |
-| 🚀 SaaS / Tools           | Experimenting |
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,mysql,docker,git,github,vscode,postman" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,express,mongodb,mysql" />
-
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-
-</div>
-
----
-
-## 🤖 AI & Automation
+# 🤖 AI & Automation
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
 <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge&logo=robotframework&logoColor=white" />
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -87,7 +78,7 @@ I'm an **AI Automation Builder** focused on building practical systems that auto
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -97,7 +88,7 @@ I'm an **AI Automation Builder** focused on building practical systems that auto
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -107,30 +98,19 @@ I'm an **AI Automation Builder** focused on building practical systems that auto
 
 ---
 
-## 🐍 Contribution Snake
+# ⏱ Weekly Coding Stats
+
+> Requires WakaTime account setup
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HarryNguyen510/HarryNguyen510/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HarryNguyen510/HarryNguyen510/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/HarryNguyen510/HarryNguyen510/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
 
@@ -146,7 +126,7 @@ I'm an **AI Automation Builder** focused on building practical systems that auto
 
 ---
 
-## 💭 Daily Inspiration
+# 💭 Daily Inspiration
 
 <div align="center">
 
@@ -156,34 +136,34 @@ I'm an **AI Automation Builder** focused on building practical systems that auto
 
 ---
 
-## ☕ Support My Work
+# ☕ Support My Work
 
 If my projects help you, consider supporting my work.
 
 <div align="center">
 
 <a href="https://ko-fi.com/harry_ai">
-  <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" />
 </a>
 
 <a href="https://paypal.me/nganhtuan">
-  <img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+<img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
 <a href="mailto:at5102001@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/HarryNguyen510">
-  <img src="https://img.shields.io/badge/GitHub-HarryNguyen510-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-HarryNguyen510-black?style=for-the-badge&logo=github" />
 </a>
 
 </div>
@@ -192,6 +172,6 @@ If my projects help you, consider supporting my work.
 
 <div align="center">
 
-### 💭 “Building useful things with AI, automation and code.”
+### 💡 Building useful things with AI, automation and code.
 
 </div>
