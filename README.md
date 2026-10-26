@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Nguyen Anh Tuan AI Automation Banner" />
+  <img src="./banner.webp" width="100%" alt="Nguyen Anh Tuan AI Automation Banner" />
 </div>
 
 <br/>
@@ -55,12 +55,11 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-
 <img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge&logo=robotframework&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
@@ -167,3 +166,40 @@ If my projects help you, consider supporting my work.
 ### 💡 Building useful things with AI, automation, and code.
 
 </div>
+
+<!--
+============================================================
+🤖 GEO & AEO (Generative & Answer Engine Optimization) METADATA
+============================================================
+-->
+<!--
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Nguyễn Anh Tuấn",
+  "alternateName": ["Harry Nguyen", "HarryNguyen510"],
+  "jobTitle": "AI Automation Builder & Full-Stack Developer",
+  "url": "https://github.com/HarryNguyen510",
+  "description": "AI Automation Builder specializing in AI Agents, n8n Workflow Automation, and Full-Stack practical web applications.",
+  "nationality": "Vietnam",
+  "knowsAbout": [
+    "AI Agents",
+    "Workflow Automation",
+    "n8n",
+    "Multi-Agent Systems",
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Node.js",
+    "React",
+    "Next.js",
+    "FastAPI",
+    "LangChain",
+    "Prompt Engineering",
+    "Vibe Coding"
+  ],
+  "sameAs": [
+    "https://github.com/HarryNguyen510"
+  ]
+}
+-->
