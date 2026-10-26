@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=HarryNguyen510&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=HarryNguyen510&theme=tokyonight&hide_border=true&timezone=Asia%2FHo_Chi_Minh" />
 
 </div>
 
@@ -92,7 +92,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarryNguyen510&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-act-graph.rodriaum.com/graph?username=HarryNguyen510&theme=tokyo-night&hide_border=true&area=true" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/HarryNguyen510/HarryNguyen510/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
 
 </div>
 
@@ -101,15 +105,15 @@
 # 🚀 Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/HarryNguyen510/kb2abot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryNguyen510&repo=kb2abot&theme=tokyonight&hide_border=true" />
+<!-- RECENT_PROJECTS:START -->
+<a href="https://github.com/HarryNguyen510/iconfit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryNguyen510&repo=iconfit&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/HarryNguyen510/thongtinthanhtoan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryNguyen510&repo=thongtinthanhtoan&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/HarryNguyen510/visual-concept-designer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HarryNguyen510&repo=visual-concept-designer&theme=tokyonight&hide_border=true" />
 </a>
-
+<!-- RECENT_PROJECTS:END -->
 </div>
 
 ---

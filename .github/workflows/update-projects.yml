@@ -1,0 +1,40 @@
+name: Auto Update Featured Projects
+
+on:
+  schedule:
+    # Chạy tự động mỗi 6 tiếng một lần (UTC)
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # Cho phép bấm chạy thủ công từ tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run update script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update-projects.js
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes in README.md"
+          else
+            git commit -m "chore: auto-update featured projects with latest repos"
+            git push
+          fi
