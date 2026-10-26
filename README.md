@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2800&pause=1000&center=true&vCenter=true&width=900&lines=AI+Automation+Builder;Building+AI+Agents+%26+Workflows;Full-Stack+Developer;Turning+Ideas+Into+Real+Products;Automate+%E2%80%A2+Build+%E2%80%A2+Ship" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2800&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+Automation+Builder;Building+AI+Agents+%26+Workflows;Full-Stack+Developer;Turning+Ideas+Into+Real+Products;Automate+%E2%80%A2+Build+%E2%80%A2+Ship" />
 
 <br/>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,express,mongodb,mysql,docker,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,react,nextjs,express,mongodb,mysql,docker,git,github,vscode,postman" />
 
 </div>
 

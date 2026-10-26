@@ -2,8 +2,8 @@ name: Auto Update Featured Projects
 
 on:
   schedule:
-    # Chạy tự động mỗi 6 tiếng một lần (UTC)
-    - cron: "0 */6 * * *"
+    # Chạy tự động 1 tuần / lần vào 00:00 Chủ Nhật hàng tuần (UTC)
+    - cron: "0 0 * * 0"
   workflow_dispatch: # Cho phép bấm chạy thủ công từ tab Actions
 
 permissions:
@@ -20,7 +20,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: Run update script
         env:
