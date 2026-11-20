@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const USERNAME = 'HarryNguyen510';
-const MAX_PROJECTS = 2;
+const MAX_PROJECTS = 4;
 
 async function main() {
   const token = process.env.GITHUB_TOKEN;
@@ -14,9 +14,9 @@ async function main() {
     headers['Authorization'] = `token ${token}`;
   }
 
-  // Lấy danh sách repo sắp xếp theo ngày tạo mới nhất (sort=created, direction=desc)
+  // Lấy danh sách repo thuộc sở hữu user (tối đa 100 repo mỗi trang)
   const res = await fetch(
-    `https://api.github.com/users/${USERNAME}/repos?sort=created&direction=desc&per_page=30`,
+    `https://api.github.com/users/${USERNAME}/repos?per_page=100&type=owner`,
     { headers }
   );
 
@@ -26,17 +26,33 @@ async function main() {
 
   const repos = await res.json();
 
-  // Lọc: Bỏ qua repo fork, repo đặc biệt trùng tên profile HarryNguyen510
-  const filtered = repos.filter(
-    (repo) => !repo.fork && repo.name.toLowerCase() !== USERNAME.toLowerCase()
-  );
+  // Lọc: Bỏ qua fork, archived, repo trùng tên profile, repo 0 sao hoặc thiếu mô tả.
+  // Sắp xếp theo số sao giảm dần, repo cập nhật gần đây nhất lên trước khi hòa sao.
+  const filtered = repos
+    .filter(
+      (repo) =>
+        !repo.fork &&
+        !repo.archived &&
+        repo.name.toLowerCase() !== USERNAME.toLowerCase() &&
+        repo.stargazers_count > 0 &&
+        repo.description &&
+        repo.description.trim() !== ''
+    )
+    .sort(
+      (a, b) =>
+        b.stargazers_count - a.stargazers_count ||
+        new Date(b.pushed_at) - new Date(a.pushed_at)
+    );
 
   const selected = filtered.slice(0, MAX_PROJECTS);
-  console.log('Selected latest projects:', selected.map((r) => r.name));
+  console.log(
+    'Selected top projects:',
+    selected.map((r) => `${r.name} (★${r.stargazers_count})`)
+  );
 
   const cardsHtml = selected
     .map((repo) => {
-      return `<a href="https://github.com/${USERNAME}/${repo.name}">\n  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${repo.name}&theme=tokyonight&hide_border=true" />\n</a>`;
+      return `<a href="https://github.com/${USERNAME}/${repo.name}">\n  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${USERNAME}&repo=${repo.name}&theme=tokyonight&hide_border=true" alt="${repo.name}" />\n</a>`;
     })
     .join('\n\n');
 
